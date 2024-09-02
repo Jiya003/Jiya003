@@ -1,4 +1,4 @@
-<h1 style="align:centre;">Hi! <img src=""> Divyanshi Maurya</h1>
+<h1 style="align:centre;">Hi! <img src=""> I'm Divyanshi Maurya</h1>
 
 <!--
 **Jiya003/Jiya003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
