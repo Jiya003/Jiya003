@@ -1,4 +1,4 @@
-<h1 style="align:centre;">Hi! <img src="animation_icon/wave.gif" style="height:5%; width:5%;"> I'm Divyanshi Maurya</h1>
+<h1 style="align:centre;">Hi! <img src="animation_icon/wave.gif" style="height:4%; width:4%;"> I'm Divyanshi Maurya</h1>
 
 <!--
 **Jiya003/Jiya003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
