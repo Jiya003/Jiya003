@@ -8,7 +8,7 @@
 <body>
     <h1 class="greeting">
         Hi! <img src="animation_icon/wave.gif" alt="Waving Hand" width="29">
-        <br>I'm Divyanshi Maurya
+        I'm Divyanshi Maurya
     </h1>
 </body>
 </html>
